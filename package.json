@@ -1,0 +1,17 @@
+{
+	"name": "paoer-assets",
+	"description": "starter template using bower-assets",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.1.2"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.4",
+		"matchdep": "*",
+		"grunt-htmlhint": "*",
+		"grunt-contrib-concat": "*",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-copy": "*"
+	}
+}
